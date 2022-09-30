@@ -96,3 +96,5 @@ local.properties
 #  !modules/yourmodule
 #
 # ==================
+
+data/sql/updates/db_world/dubs.sql
