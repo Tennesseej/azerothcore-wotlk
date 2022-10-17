@@ -1,0 +1,8 @@
+Add modules directly to modules directory so it can be committed to fork
+
+Add NPC for buffer
+
+Mail token once per week
+Add NPC for special items that sells rep and gold for tokens
+
+Add NPC's that sell items once rep is reached
